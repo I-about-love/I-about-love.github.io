@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+---
+title: I
+--- 
 
-You can use the [editor on GitHub](https://github.com/I-about-love/I-about-love.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Main Story
 
-### Markdown
+1830s: [Irresistible/Immortal](part1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1860s: [Irrational/Insistent](part2)
 
-```markdown
-Syntax highlighted code block
+1920s: [Inseparable/Illusory](part3)
 
-# Header 1
-## Header 2
-### Header 3
+[Indigenous](part4)
 
-- Bulleted
-- List
+## Extra Story
 
-1. Numbered
-2. List
+[Infraction](extra1)
 
-**Bold** and _Italic_ and `Code` text
+[Infancy](extra2)
 
-[Link](url) and ![Image](src)
-```
+[Infinity](extra3)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Guest Story
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/I-about-love/I-about-love.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Incessant hunting game](guest1)
 
-### Support or Contact
+[In Love with You](guest2)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Appendix
+
+[Background](background)
+
+[Timeline](timeline)
+
+[Post-credits Scene](surprise)
+
+[Free Talk](freetalk)
